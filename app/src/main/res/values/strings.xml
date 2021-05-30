@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AddNotes</string>
+    <string name="this_is_the_title">This is the title.</string>
+    <string name="this_is_the_description">This is the description</string>
+</resources>
