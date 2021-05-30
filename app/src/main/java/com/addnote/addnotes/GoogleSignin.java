@@ -95,6 +95,7 @@ public class GoogleSignin extends AppCompatActivity {
                 Uri personPhoto = acct.getPhotoUrl();
 
                 Toast.makeText(this, "User Email : "+personEmail, Toast.LENGTH_SHORT).show();
+                Toast.makeText(this, "Right Swipe to delete a note.", Toast.LENGTH_SHORT).show();
             }
 
             // Signed in successfully, show authenticated UI.
